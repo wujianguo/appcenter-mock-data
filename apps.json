@@ -1,0 +1,57 @@
+[{
+    "name": "chrome",
+    "display_name": "Google Chrome",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/google/apps/chrome/chrome.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Download the fast, secure browser recommended by Google."
+}, {
+    "name": "google",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/google/apps/google/google.webp",
+    "display_name": "Google",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests, and stay up to date with Discover."
+}, {
+    "name": "excel",
+    "display_name": "Microsoft Excel",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/apps/excel/excel.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Microsoft Excel, the spreadsheet app, lets you create, view, edit, and share your files quickly and easily."
+}, {
+    "name": "word",
+    "display_name": "Microsoft Word",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/apps/word/word.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "The trusted Word app lets you create, edit, view, and share your files with others quickly and easily."
+}, {
+    "name": "todo",
+    "display_name": "Microsoft To Do",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/apps/todo/todo.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Create to do lists, reminders, and notes for any purpose."
+}, {
+    "name": "OneDrive",
+    "display_name": "Microsoft OneDrive",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/users/BillGates/apps/OneDrive/OneDrive.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Microsoft OneDrive keeps your photos and files backed up, protected, synced, and accessible on all your devices."
+}, {
+    "name": "ScreenwiseMeter",
+    "display_name": "Screenwise Meter",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/users/LarryPage/apps/ScreenwiseMeter/ScreenwiseMeter.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "The Screenwise Meter iOS app enables registered panelists' participation in Google’s meter-based market research programs."
+}]

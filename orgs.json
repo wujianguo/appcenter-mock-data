@@ -1,0 +1,13 @@
+[{
+    "name": "google",
+    "display_name": "Google LLC",
+    "visibility": "Public",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/google/google.webp",
+    "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. " 
+}, {
+    "name": "microsoft",
+    "display_name": "Microsoft Corporation",
+    "visibility": "Public",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/microsoft.webp",
+    "description": "Microsoft Corporation is an American multinational technology corporation which produces computer software, consumer electronics, personal computers, and related services."
+}]
