@@ -1,0 +1,9 @@
+{
+    "name": "word",
+    "display_name": "Microsoft Word",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/apps/word/word.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "The trusted Word app lets you create, edit, view, and share your files with others quickly and easily."
+}

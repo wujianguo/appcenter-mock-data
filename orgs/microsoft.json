@@ -1,0 +1,7 @@
+{
+    "name": "microsoft",
+    "display_name": "Microsoft Corporation",
+    "visibility": "Public",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/microsoft.webp",
+    "description": "Microsoft Corporation is an American multinational technology corporation which produces computer software, consumer electronics, personal computers, and related services."
+}

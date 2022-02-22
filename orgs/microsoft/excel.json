@@ -1,0 +1,9 @@
+{
+    "name": "excel",
+    "display_name": "Microsoft Excel",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/apps/excel/excel.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Microsoft Excel, the spreadsheet app, lets you create, view, edit, and share your files quickly and easily."
+}

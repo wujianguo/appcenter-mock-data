@@ -1,0 +1,9 @@
+{
+    "name": "ScreenwiseMeter",
+    "display_name": "Screenwise Meter",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/users/LarryPage/apps/ScreenwiseMeter/ScreenwiseMeter.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "The Screenwise Meter iOS app enables registered panelists' participation in Google’s meter-based market research programs."
+}

@@ -1,0 +1,9 @@
+{
+    "name": "OneDrive",
+    "display_name": "Microsoft OneDrive",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/users/BillGates/apps/OneDrive/OneDrive.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Microsoft OneDrive keeps your photos and files backed up, protected, synced, and accessible on all your devices."
+}

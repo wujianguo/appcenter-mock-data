@@ -1,0 +1,9 @@
+{
+    "name": "todo",
+    "display_name": "Microsoft To Do",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/microsoft/apps/todo/todo.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Create to do lists, reminders, and notes for any purpose."
+}

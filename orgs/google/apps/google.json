@@ -1,0 +1,9 @@
+{
+    "name": "google",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/google/apps/google/google.webp",
+    "display_name": "Google",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests, and stay up to date with Discover."
+}

@@ -1,0 +1,17 @@
+[{
+    "username": "BillGates",
+    "orgs": [
+        {
+            "name": "microsoft",
+            "role": "Admin"
+        }
+    ]
+}, {
+    "username": "LarryPage",
+    "orgs": [
+        {
+            "name": "google",
+            "role": "Admin"
+        }
+    ]
+}]

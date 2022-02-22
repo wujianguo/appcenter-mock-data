@@ -1,0 +1,9 @@
+{
+    "name": "chrome",
+    "display_name": "Google Chrome",
+    "icon_file": "https://raw.githubusercontent.com/wujianguo/appcenter-mock-data/main/orgs/google/apps/chrome/chrome.webp",
+    "os": "iOS",
+    "platform": "ObjectiveCSwift",
+    "release_type": "Alpha",
+    "description": "Download the fast, secure browser recommended by Google."
+}

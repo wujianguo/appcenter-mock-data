@@ -1,0 +1,33 @@
+{
+    "user": [{
+        "username": "BillGates",
+        "apps": [
+            {
+                "name": "OneDrive",
+                "role": "Manager"
+            }
+        ]
+    }, {
+        "username": "LarryPage",
+        "apps": [
+            {
+                "name": "ScreenwiseMeter",
+                "role": "Manager"
+            }
+        ]
+    }],
+    "org": [{
+        "name": "microsoft",
+        "apps": [
+            "todo",
+            "word",
+            "excel"
+        ]
+    }, {
+        "name": "google",
+        "apps": [
+            "google",
+            "chrome"
+        ]
+    }]
+}
